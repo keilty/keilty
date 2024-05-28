@@ -7,11 +7,9 @@
 ## Skills summary:
 
 ### Technical Skills:
-- Front-end: HTML5, CSS3, Sass, JavaScript, React.js.
-- Back-end: Node.js, Express.js, MySQL, Sequelize.
-- CMS: Shopify, Liquid.
-- Git, GitHub.
-- Agile Methodologies: SCRUM.
+- PHP, NODE, JAVASCRIPT, REACT
+- SHOPIFY, WORDPRESS
+- MYSQL
 
 ### Soft Skills:
 - Conflict resolution, teamplayer, proactive, empathy, active listening, resilience.
