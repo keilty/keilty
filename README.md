@@ -1,6 +1,6 @@
-## Hi there 👋 My name is Gabriel Keilty and I'm a Full-Stack Web Developer
+## Hi there 👋 My name is Gabriel Keilty and I'm a E-commerce Developer
 
-### 🔭 I’m currently working on projects based on React.js and Node.js as a Freelance Developer
+### 🔭 I’m currently working on projects based on customization of Wordpress using PHP and JavaScript.
 
 #### 👯 I’m looking to collaborate on projects with the mentioned technologies and keep learning and improving my skills while creating value in the process.
 
