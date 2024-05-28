@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Gabriel Keilty and I'm a E-commerce Developer
 
-### 🔭 I’m currently working on projects based on customization of Wordpress using PHP and JavaScript.
+### 🔭 I’m currently working on projects based on customization of Wordpress websites using PHP, JavaScript and CSS3.
 
 #### 👯 I’m looking to collaborate on projects with the mentioned technologies and keep learning and improving my skills while creating value in the process.
 
