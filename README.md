@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm a passionate and skilled web developer with +3 years of experience helping businesses create, enhance, and scale their online presence.
+## Hi there! 👋 I'm a skilled and detail-oriented web developer, specialized in helping businesses create, enhance, and scale their online presence
 
 ### My expertise lies in eCommerce development, with a strong focus on platforms like Shopify and WordPress/WooCommerce.
 
